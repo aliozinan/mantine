@@ -80,6 +80,7 @@
   },
   "devDependencies": {
     "@types/chroma-js": "^2.4.3",
-    "@types/github-slugger": "^2.0.0"
+    "@types/github-slugger": "^2.0.0",
+    "webpack": "^5.89.0"
   }
 }

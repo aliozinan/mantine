@@ -1,9 +1,9 @@
 export { useForm } from './use-form';
 export { createFormContext } from './FormProvider/FormProvider';
-export { createFormActions } from './actions/index.js';
+export { createFormActions } from './actions';
 export { Form } from './Form/Form';
 export { FORM_INDEX } from './form-index';
-export * from './validators/index.js';
+export * from './validators';
 export { useField } from './use-field';
 
 export { zodResolver } from './resolvers/zod-resolver/zod-resolver';
